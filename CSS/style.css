@@ -526,10 +526,4 @@ footer{
 }
 .footer5{
     margin-left: 139px;
-    img{
-        width: 46px;
-        height: 46px;
-        flex-shrink: 0;
-        border-radius: 46px;
-    }
 }
